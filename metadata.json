@@ -1,0 +1,6 @@
+{
+  "name": "Pemantau Gizi",
+  "description": "Aplikasi pemantau gizi dan pengenalan makanan berbasis AI dengan estimasi porsi dan rekomendasi resep penutup gap nutrisi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
